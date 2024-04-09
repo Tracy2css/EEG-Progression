@@ -48,6 +48,8 @@
 * at the colour temperature of 6000 K, Pr is distinctly less than for the other two colour temperatures, indicating that with the increase in illumination, the visual acuity of all the staff improved, **but the amplitude tends to increase first and then decrease.** 
 * under the combination of the 6000 K colour temperature and 300 lx illumination, the human optic nerve is the most sensitive.
 
+在受试者经历不同强度的光照条件下进行研究时，选择观测ERP成分还是波段周期，以及使用时间域分析（time domain analyses）还是时间-频率分析（time-frequency analyses），取决于研究的具体目标和假设。以下是如何根据研究目的决定分析方法：
+
 ## 观测ERP成分
 - **何时考虑**：如果研究关注的是光照变化如何影响大脑对特定事件的即时反应，应考虑观测ERP成分。例如，研究光照如何影响对突然出现的视觉刺激的反应。
 - **分析方法**：在这种情况下，应使用**时间域分析**，因为它可以准确地提供ERP成分（如P300、N400）的潜伏期和振幅信息，这些信息对于理解光照如何影响认知过程至关重要。
@@ -143,5 +145,10 @@ EEG任务负荷指数（Task Load Index, TLI）和EEG任务参与指数（Task E
    - 健康问卷，如SF-36健康调查问卷，也可以用来评估与压力和疲劳相关的生活质量指标。
 
 ---
-在受试者经历不同强度的光照条件下进行研究时，选择观测ERP成分还是波段周期，以及使用时间域分析（time domain analyses）还是时间-频率分析（time-frequency analyses），取决于研究的具体目标和假设。以下是如何根据研究目的决定分析方法：
 
+# 3. Relaxation and Stress classifications
+*Dorota Kaminska, Krzysztof Smolka, G. Z. (2021) ‘Detection of Mental Stress through EEG Signal in Virtual Environment’, Electronics.*
+
+The power spectral density for stress and relaxation was analyzed based on EEG signals. 
+> - For stress, greater values were observed for Theta, Alpha, Beta, and Gamma waves at the start of the events, followed by their suppression after about 1.5–2.5 minutes 14. 
+> - On the other hand, relaxation-related brain wave charts showed the presence of Theta and Alpha waves before the start of the event, gradually suppressed within 1–2 minutes
