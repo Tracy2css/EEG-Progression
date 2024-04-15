@@ -152,3 +152,8 @@ EEG任务负荷指数（Task Load Index, TLI）和EEG任务参与指数（Task E
 The power spectral density for stress and relaxation was analyzed based on EEG signals. 
 > - For stress, greater values were observed for Theta, Alpha, Beta, and Gamma waves at the start of the events, followed by their suppression after about 1.5–2.5 minutes 14. 
 > - On the other hand, relaxation-related brain wave charts showed the presence of Theta and Alpha waves before the start of the event, gradually suppressed within 1–2 minutes
+
+# 3. [SMR + Middle Beta]/Theta
+> was used to analyze the subjects' attention levels
+
+*Choi, Y., Kim, M. and Chun, C. (2019) ‘Effect of temperature on attention ability based on electroencephalogram measurements’, Building and Environment, 147(June 2018), pp. 299–304. doi: 10.1016/j.buildenv.2018.10.020.*
