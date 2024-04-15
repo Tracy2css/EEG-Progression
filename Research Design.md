@@ -157,3 +157,6 @@ The power spectral density for stress and relaxation was analyzed based on EEG s
 > was used to analyze the subjects' attention levels
 
 *Choi, Y., Kim, M. and Chun, C. (2019) ‘Effect of temperature on attention ability based on electroencephalogram measurements’, Building and Environment, 147(June 2018), pp. 299–304. doi: 10.1016/j.buildenv.2018.10.020.*
+
+# Classify thermal states with Machine Learning Classifiers
+> 功率谱密度（Power Spectral Density, PSD）是用于描述信号功率如何随频率分布的度量，它为理解信号的频率内容提供了基础
