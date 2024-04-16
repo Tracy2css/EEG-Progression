@@ -84,7 +84,10 @@
 总之，选择ERP测试还是波段周期观测，应基于任务的特性和研究目标。对于需要快速反应和注意力评估的任务，ERP成分提供关键信息；对于需要深入了解记忆过程和长期认知状态的任务，观测特定的频率波段可能更加适合。在一些情况下，结合两种方法将提供最全面的认知功能视图。
 ---
 *Williams, N. S. et al. (2020) ‘A validation of Emotiv EPOC Flex saline for EEG and ERP research’. doi: 10.7717/peerj.9713.**
+
 # 2. EEG Task load index (TLI) and EEG Task engagement index (TEI)
+*Hebbar, P. A. (2023) ‘Cognitive Load Estimation in VR Flight Simulator’, 15(3), pp. 1–16.*
+
 EEG任务负荷指数（Task Load Index, TLI）和EEG任务参与指数（Task Engagement Index, TEI）是通过分析脑电波（EEG）数据来评估个体在执行任务时的认知状态的指标。下面是这两个指数的计算方法和应用实例。
 
 ## EEG任务负荷指数 (TLI)
@@ -153,10 +156,10 @@ The power spectral density for stress and relaxation was analyzed based on EEG s
 > - For stress, greater values were observed for Theta, Alpha, Beta, and Gamma waves at the start of the events, followed by their suppression after about 1.5–2.5 minutes 14. 
 > - On the other hand, relaxation-related brain wave charts showed the presence of Theta and Alpha waves before the start of the event, gradually suppressed within 1–2 minutes
 
-# 3. [SMR + Middle Beta]/Theta
+# 4. [SMR + Middle Beta]/Theta
 > was used to analyze the subjects' attention levels
 
 *Choi, Y., Kim, M. and Chun, C. (2019) ‘Effect of temperature on attention ability based on electroencephalogram measurements’, Building and Environment, 147(June 2018), pp. 299–304. doi: 10.1016/j.buildenv.2018.10.020.*
 
-# Classify thermal states with Machine Learning Classifiers
+# 5. Classify thermal states with Machine Learning Classifiers
 > 功率谱密度（Power Spectral Density, PSD）是用于描述信号功率如何随频率分布的度量，它为理解信号的频率内容提供了基础
