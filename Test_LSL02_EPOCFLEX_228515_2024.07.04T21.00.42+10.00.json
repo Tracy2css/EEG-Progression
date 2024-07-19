@@ -1,0 +1,959 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:04.848517+10:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2024-07-04T21:01:04.847674+10:00",
+            "originalStartDatetime": "2024-07-04T21:00:49.842472+10:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-07-04T21:00:49.840704+10:00",
+            "type": "interval",
+            "uuid": "2134ba1e-f1ec-4c5b-a64e-2e0e1c4b1581",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:26.957892+10:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2024-07-04T21:01:26.958526+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:11.956777+10:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-07-04T21:01:11.957892+10:00",
+            "type": "interval",
+            "uuid": "11913338-3cac-430d-a505-48cf5c99da95",
+            "value": 3
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:33.621954+10:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:01:33.618658+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:33.618658+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:33.621954+10:00",
+            "type": "instance",
+            "uuid": "0f036f3b-d10b-40ae-bc3a-2ee02ab0f4c1",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:35.723517+10:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:35.725587+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:35.725587+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:35.723517+10:00",
+            "type": "instance",
+            "uuid": "e6f1ab9f-5636-4e6a-9893-a705d798fa89",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:37.051642+10:00",
+            "extras": {
+            },
+            "index": 5,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:37.055404+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:37.055404+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:37.051642+10:00",
+            "type": "instance",
+            "uuid": "9c9a67a0-cf26-45b9-98bc-67c41d4d29b8",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:37.332892+10:00",
+            "extras": {
+            },
+            "index": 6,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:37.331166+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:37.331166+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:37.332892+10:00",
+            "type": "instance",
+            "uuid": "9b908787-c84f-47dd-b4df-27584410f80b",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:37.465704+10:00",
+            "extras": {
+            },
+            "index": 7,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:37.467222+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:37.467222+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:37.465704+10:00",
+            "type": "instance",
+            "uuid": "35233d99-68a7-46a0-8045-4e062ad2885d",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:41.637579+10:00",
+            "extras": {
+            },
+            "index": 8,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:41.637592+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:41.637592+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:41.637579+10:00",
+            "type": "instance",
+            "uuid": "8094502b-583a-4f5e-bcd1-0abe300f7d25",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:01:41.832892+10:00",
+            "extras": {
+            },
+            "index": 9,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:01:41.835971+10:00",
+            "originalStartDatetime": "2024-07-04T21:01:41.835971+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:01:41.832892+10:00",
+            "type": "instance",
+            "uuid": "7acc15b3-cdbb-41da-bdc5-4a30de34fb3e",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:30.457892+10:00",
+            "extras": {
+            },
+            "index": 10,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:30.455201+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:30.455201+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:30.457892+10:00",
+            "type": "instance",
+            "uuid": "ea984991-807f-443e-854b-c58e54f17415",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:30.637579+10:00",
+            "extras": {
+            },
+            "index": 11,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:30.634549+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:30.634549+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:30.637579+10:00",
+            "type": "instance",
+            "uuid": "0e8f75f7-ff20-4b0f-8c15-188ce8c3a868",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:31.239142+10:00",
+            "extras": {
+            },
+            "index": 12,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:31.238493+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:31.238493+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:31.239142+10:00",
+            "type": "instance",
+            "uuid": "8659d1c2-e988-45da-b137-b04b4cebafea",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:31.700079+10:00",
+            "extras": {
+            },
+            "index": 13,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:31.698981+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:31.698981+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:31.700079+10:00",
+            "type": "instance",
+            "uuid": "f235b0bf-8cc4-42aa-8a24-7c934c7a647e",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:31.840704+10:00",
+            "extras": {
+            },
+            "index": 14,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:31.838600+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:31.838600+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:31.840704+10:00",
+            "type": "instance",
+            "uuid": "e64cbb4c-ef87-4f5c-a4de-26f2d58fea47",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:31.973517+10:00",
+            "extras": {
+            },
+            "index": 15,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:31.977320+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:31.977320+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:31.973517+10:00",
+            "type": "instance",
+            "uuid": "d700e33c-70b4-4afa-8563-3a900ce7c99d",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.043829+10:00",
+            "extras": {
+            },
+            "index": 16,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:32.041298+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.041298+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.043829+10:00",
+            "type": "instance",
+            "uuid": "ee6eeb07-d539-4dec-9d12-3f7f7a5e30da",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.043829+10:00",
+            "extras": {
+            },
+            "index": 17,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:32.044666+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.044666+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.043829+10:00",
+            "type": "instance",
+            "uuid": "07111594-406a-47fd-959a-f3a4d90ecc43",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.161017+10:00",
+            "extras": {
+            },
+            "index": 18,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:32.160718+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.160718+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.161017+10:00",
+            "type": "instance",
+            "uuid": "e9cb713c-858e-41c3-85aa-e4655aa64ba2",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.168829+10:00",
+            "extras": {
+            },
+            "index": 19,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:32.170577+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.170577+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.168829+10:00",
+            "type": "instance",
+            "uuid": "7ba69132-1845-4819-a20b-14980bbeb194",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.176642+10:00",
+            "extras": {
+            },
+            "index": 20,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:32.179502+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.179502+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.176642+10:00",
+            "type": "instance",
+            "uuid": "56652b83-744e-4314-bf85-978d2008924d",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:32.317267+10:00",
+            "extras": {
+            },
+            "index": 21,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:32.313792+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:32.313792+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:32.317267+10:00",
+            "type": "instance",
+            "uuid": "341c0781-7616-481b-89a5-ba35da420030",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:33.239142+10:00",
+            "extras": {
+            },
+            "index": 22,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:33.239783+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:33.239783+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:33.239142+10:00",
+            "type": "instance",
+            "uuid": "eb3bc522-0760-4f5b-8d1c-5c97a2316318",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:33.309454+10:00",
+            "extras": {
+            },
+            "index": 23,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:33.307438+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:33.307438+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:33.309454+10:00",
+            "type": "instance",
+            "uuid": "96c1a18c-1086-4315-a1c5-8eed11f69687",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "extras": {
+            },
+            "index": 24,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:34.337496+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.337496+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "type": "instance",
+            "uuid": "ac7ce961-ccc0-4c06-877a-55462e41f61a",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "extras": {
+            },
+            "index": 25,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.340926+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.340926+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "type": "instance",
+            "uuid": "24242c08-3cdd-4eb7-87fe-649fa8cd0024",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "extras": {
+            },
+            "index": 26,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.343966+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.343966+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.340704+10:00",
+            "type": "instance",
+            "uuid": "e8ccde28-f1a2-4116-941f-21165df31b80",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.411017+10:00",
+            "extras": {
+            },
+            "index": 27,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.409666+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.409666+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.411017+10:00",
+            "type": "instance",
+            "uuid": "2d01694b-d51a-4278-aacc-9bec2ae801ee",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.473517+10:00",
+            "extras": {
+            },
+            "index": 28,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:34.472405+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.472405+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.473517+10:00",
+            "type": "instance",
+            "uuid": "6fae0aaa-ef27-4b1b-aee8-4c47664e50e6",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.473517+10:00",
+            "extras": {
+            },
+            "index": 29,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.475719+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.475719+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.473517+10:00",
+            "type": "instance",
+            "uuid": "e1bb350b-f021-4de3-aaac-e586b9918aba",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.551642+10:00",
+            "extras": {
+            },
+            "index": 30,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.549840+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.549840+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.551642+10:00",
+            "type": "instance",
+            "uuid": "16bad807-4ab8-4157-9c76-51b7dc788d2d",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.606329+10:00",
+            "extras": {
+            },
+            "index": 31,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:34.609937+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.609937+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.606329+10:00",
+            "type": "instance",
+            "uuid": "bc191774-11b4-456d-ab76-a32d59d8a9d1",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.614142+10:00",
+            "extras": {
+            },
+            "index": 32,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.613168+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.613168+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.614142+10:00",
+            "type": "instance",
+            "uuid": "dfb285b8-17e2-4dd1-8a47-df72a56352cb",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.746954+10:00",
+            "extras": {
+            },
+            "index": 33,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.748634+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.748634+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.746954+10:00",
+            "type": "instance",
+            "uuid": "c2ab5e30-8685-40ee-8d0e-78e573b65192",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.754767+10:00",
+            "extras": {
+            },
+            "index": 34,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.753160+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.753160+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.754767+10:00",
+            "type": "instance",
+            "uuid": "a952d1aa-4150-40f0-a9f8-b2dd3e11b934",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.817267+10:00",
+            "extras": {
+            },
+            "index": 35,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:34.814340+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.814340+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.817267+10:00",
+            "type": "instance",
+            "uuid": "cd60903e-85c3-4831-8e05-4537ac51c364",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:34.879767+10:00",
+            "extras": {
+            },
+            "index": 36,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:34.879205+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:34.879205+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:34.879767+10:00",
+            "type": "instance",
+            "uuid": "f019c516-0644-4567-a56b-ad5a467748f4",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.012579+10:00",
+            "extras": {
+            },
+            "index": 37,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:35.010568+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.010568+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.012579+10:00",
+            "type": "instance",
+            "uuid": "7598ffc4-b44e-4185-adc6-d9c56700aaf3",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.012579+10:00",
+            "extras": {
+            },
+            "index": 38,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:35.014041+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.014041+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.012579+10:00",
+            "type": "instance",
+            "uuid": "f5566007-ad47-4a7e-9ae9-87c9e4443980",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.020392+10:00",
+            "extras": {
+            },
+            "index": 39,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:35.020345+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.020345+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.020392+10:00",
+            "type": "instance",
+            "uuid": "de3988c8-3ab7-443a-ba1d-d6481e9c1311",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.036017+10:00",
+            "extras": {
+            },
+            "index": 40,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:35.037228+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.037228+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.036017+10:00",
+            "type": "instance",
+            "uuid": "be6f3ffe-2f62-4d93-96d9-2948385344e4",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.114142+10:00",
+            "extras": {
+            },
+            "index": 41,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:35.116149+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.116149+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.114142+10:00",
+            "type": "instance",
+            "uuid": "3ba4d615-3a4a-47dc-9e55-d1c4e772b3a9",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:35.184454+10:00",
+            "extras": {
+            },
+            "index": 42,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:35.180944+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:35.180944+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:35.184454+10:00",
+            "type": "instance",
+            "uuid": "2c711565-5c4f-444c-bf94-dc7f70872754",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:36.918829+10:00",
+            "extras": {
+            },
+            "index": 43,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:36.917232+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:36.917232+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:36.918829+10:00",
+            "type": "instance",
+            "uuid": "160dafc6-91c0-48fa-a4c0-5f6a237d7cb8",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:37.692267+10:00",
+            "extras": {
+            },
+            "index": 44,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:37.692630+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:37.692630+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:37.692267+10:00",
+            "type": "instance",
+            "uuid": "71fa5b76-e4eb-4264-8182-4e849fdaf7b4",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:38.137579+10:00",
+            "extras": {
+            },
+            "index": 45,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:38.134613+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:38.134613+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:38.137579+10:00",
+            "type": "instance",
+            "uuid": "e8e0834c-8caf-4ec2-b352-421a5f6cb470",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:38.481329+10:00",
+            "extras": {
+            },
+            "index": 46,
+            "label": "Blink eye while relaxing",
+            "originalEndDatetime": "2024-07-04T21:02:38.478695+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:38.478695+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:38.481329+10:00",
+            "type": "instance",
+            "uuid": "7ba8ace1-5b74-45a6-88af-27a20fef448b",
+            "value": 22
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:38.832892+10:00",
+            "extras": {
+            },
+            "index": 47,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:38.830982+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:38.830982+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:38.832892+10:00",
+            "type": "instance",
+            "uuid": "311090f9-58b5-48bd-8829-7444cad84c9d",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:38.957892+10:00",
+            "extras": {
+            },
+            "index": 48,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:38.960270+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:38.960270+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:38.957892+10:00",
+            "type": "instance",
+            "uuid": "841d8d58-1030-4b0e-8f5b-f0ee7517a222",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:39.090704+10:00",
+            "extras": {
+            },
+            "index": 49,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:39.094221+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:39.094221+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:39.090704+10:00",
+            "type": "instance",
+            "uuid": "9dd14d08-67de-4883-b2a8-ee4461bcf1ff",
+            "value": 23
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:39.614142+10:00",
+            "extras": {
+            },
+            "index": 50,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:39.611986+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:39.611986+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:39.614142+10:00",
+            "type": "instance",
+            "uuid": "601a2a2f-b056-4352-8794-ff36409ea276",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:39.793829+10:00",
+            "extras": {
+            },
+            "index": 51,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:39.794663+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:39.794663+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:39.793829+10:00",
+            "type": "instance",
+            "uuid": "3aa2775b-ec27-446c-a631-60d91fae3758",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:40.473517+10:00",
+            "extras": {
+            },
+            "index": 52,
+            "label": "Lift Right Arm",
+            "originalEndDatetime": "2024-07-04T21:02:40.476213+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:40.476213+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:40.473517+10:00",
+            "type": "instance",
+            "uuid": "56669759-11fa-431e-8c42-3fa2014d6c1e",
+            "value": 24
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:41.200079+10:00",
+            "extras": {
+            },
+            "index": 53,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:41.197486+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:41.197486+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:41.200079+10:00",
+            "type": "instance",
+            "uuid": "60a2c291-bd07-47f3-b632-44bfc9561054",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:41.481329+10:00",
+            "extras": {
+            },
+            "index": 54,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:41.484085+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:41.484085+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:41.481329+10:00",
+            "type": "instance",
+            "uuid": "20810897-18f8-4269-8a72-d87fcc529174",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:41.817267+10:00",
+            "extras": {
+            },
+            "index": 55,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:41.815834+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:41.815834+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:41.817267+10:00",
+            "type": "instance",
+            "uuid": "276ade26-9dc3-41b9-9d2f-039470b56d49",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:41.950079+10:00",
+            "extras": {
+            },
+            "index": 56,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:41.951393+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:41.951393+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:41.950079+10:00",
+            "type": "instance",
+            "uuid": "35c512d5-3cdb-4841-a623-4cb5d5801f33",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:47.223517+10:00",
+            "extras": {
+            },
+            "index": 57,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:47.223499+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:47.223499+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:47.223517+10:00",
+            "type": "instance",
+            "uuid": "16b8542a-bf5a-4b0f-a153-6b00b6da93ff",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:47.606329+10:00",
+            "extras": {
+            },
+            "index": 58,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:47.603178+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:47.603178+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:47.606329+10:00",
+            "type": "instance",
+            "uuid": "7b6fbde8-c6b6-4059-8f33-4ba5a0c39a79",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:47.801642+10:00",
+            "extras": {
+            },
+            "index": 59,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:47.804408+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:47.804408+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:47.801642+10:00",
+            "type": "instance",
+            "uuid": "5e943fb7-8067-4cc3-98cf-ccea2078e51b",
+            "value": 234
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-07-04T21:02:48.028204+10:00",
+            "extras": {
+            },
+            "index": 60,
+            "label": "ERPs",
+            "originalEndDatetime": "2024-07-04T21:02:48.026735+10:00",
+            "originalStartDatetime": "2024-07-04T21:02:48.026735+10:00",
+            "port": "KeyStroke",
+            "startDatetime": "2024-07-04T21:02:48.028204+10:00",
+            "type": "instance",
+            "uuid": "2d0d0d6d-0d09-48c6-abe7-b24af1a25258",
+            "value": 234
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": "1900-01-01",
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-07-05T17:49:14.298+10:00",
+    "headsetType": "EPOCFLEX",
+    "mappings": {
+        "CMS": "TP9",
+        "DRL": "TP10",
+        "LA": "C3",
+        "LB": "T7",
+        "LC": "FC1",
+        "LD": "FC5",
+        "LE": "FT9",
+        "LF": "F3",
+        "LG": "F7",
+        "LH": "Fp1",
+        "LJ": "Pz",
+        "LK": "Cz",
+        "LL": "O1",
+        "LM": "PO9",
+        "LN": "P3",
+        "LO": "P7",
+        "LP": "CP1",
+        "LQ": "CP5",
+        "RA": "C4",
+        "RB": "T8",
+        "RC": "FC2",
+        "RD": "FC6",
+        "RE": "FT10",
+        "RF": "F4",
+        "RG": "F8",
+        "RH": "Fp2",
+        "RJ": "Oz",
+        "RK": "Fz",
+        "RL": "O2",
+        "RM": "PO10",
+        "RN": "P4",
+        "RO": "P8",
+        "RP": "CP2",
+        "RQ": "CP6"
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "260ed7e8-44b5-47f7-9dc9-9b61d2241b1e",
+    "user": "tmacwind"
+}

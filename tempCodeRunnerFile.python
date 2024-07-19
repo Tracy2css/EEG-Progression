@@ -1,0 +1,17 @@
+import pyxdf
+import pandas as pd
+
+# Load the XDF file
+data, header = pyxdf.load_xdf(r"F:\360MoveData\CurrentStudy\sub-P002\ses-S001\eeg\sub-P002_ses-S001_task-Default_run-001_eeg.xdf")
+
+# Assuming the EEG data stream is the first stream
+eeg_stream = data[0]
+timestamps = eeg_stream['time_stamps']
+samples = eeg_stream['time_series']
+
+# Create a DataFrame
+df = pd.DataFrame(samples, columns=[f'Channel {i+1}' for i in range(samples.shape[1])])
+df['Timestamps'] = timestamps
+
+# Save as a CSV file
+df.to_csv('sub-P002_ses-S001_task-Default_run-001_eeg.csv', index=False)
