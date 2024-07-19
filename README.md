@@ -1,4 +1,9 @@
 # EEG-Progression
+## 20240716
+> - data visualization based on MNE python library
+> - Time sequency
+> - Topo map of the brain
+
 ## 20240406
 > - update of learning outcomes of EEG measurment
 > - for research design
